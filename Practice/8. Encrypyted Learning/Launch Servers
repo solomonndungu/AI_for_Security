@@ -1,0 +1,5 @@
+python -m tf_encrypted.player --config /tmp/tfe.config server0
+
+python -m tf_encrypted.player --config /tmp/tfe.config server1
+
+python -m tf_encrypted.player --config /tmp/tfe.config server2
